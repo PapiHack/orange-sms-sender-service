@@ -4,7 +4,8 @@ Service d'envoi de SMS avec l'API d'orange intégrée.
 
 ## Technologies utilisées
 
-- FastAPI
+- `Python`
+- `FastAPI`
 
 ## Pré-requis
 
